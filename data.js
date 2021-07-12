@@ -5,6 +5,7 @@ var topics = {
     "Rockstar": "https://codewithrockstar.com/",
     "J": "https://www.jsoftware.com/#/",
     "APL": "https://aplwiki.com/",
+    "Keg": "https://github.com/Lyxal/Keg",
 }
 
 var creators = {
@@ -15,6 +16,7 @@ var creators = {
     "tangentstorm": "https://www.youtube.com/channel/UCznGnOteb8vQ0fJyHys_OQg",
     "Imperial College London": "https://www.youtube.com/channel/UCcRV5FPxxWFdS4Fjnk9FQvA",
     "DyalogLtd": "https://www.youtube.com/channel/UCRFAE1uHnrhXlSkoaAgKsIQ",
+    "Richard Rahler": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
 }
 
 var dataByCreator = {
@@ -37,5 +39,8 @@ var dataByCreator = {
     "DyalogLtd": [
         ["APL", "Conway's Game of Life", "https://www.youtube.com/watch?v=a9xAKttWgP4&t=175s"],
         ["APL", "A Sudoku Solver in APL", "https://www.youtube.com/watch?v=DmT80OseAGs"]
+    ],
+    "Richard Rahler": [
+        ["Keg", "An Easter Keg", "https://shouldiblamecaching.com/"]
     ],
 }
